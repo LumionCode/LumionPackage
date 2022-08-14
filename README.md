@@ -1,0 +1,2 @@
+# LumionPackage
+.lmn Extension Support
